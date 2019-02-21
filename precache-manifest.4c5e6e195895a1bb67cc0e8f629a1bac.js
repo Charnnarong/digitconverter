@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/digitconverter/static/js/2.063ce5bc.chunk.js"
   },
   {
-    "revision": "577e6405618e2811d54ed5edcb2d3ed8",
+    "revision": "cd64632c45b79242175e04860e73c042",
     "url": "/digitconverter/index.html"
   }
 ];

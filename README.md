@@ -1,7 +1,8 @@
 # Digit Converter [![Build Status](https://travis-ci.org/Charnnarong/digitconverter.svg?branch=master)](https://travis-ci.org/Charnnarong/digitconverter).
 
-[the tool (Live demo)](https://charnnarong.github.io/digitconverter/ "Json to go struct")
--   dec to bin
+[Live tool here](https://charnnarong.github.io/digitconverter/ "Json to go struct")
+   
+-  dec to bin
 -   dec to oct
 -   dec to hex
 -   bin to dec
@@ -15,4 +16,4 @@
 -   hex to oct
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+

@@ -1,4 +1,4 @@
-# Digit Converter [![Build Status](https://travis-ci.org/Charnnarong/digitconverter.svg?branch=master)](https://travis-ci.org/Charnnarong/json-to-go-struct).
+# Digit Converter [![Build Status](https://travis-ci.org/Charnnarong/digitconverter.svg?branch=master)](https://travis-ci.org/Charnnarong/digitconverter).
 
 [the tool (Live demo)](https://charnnarong.github.io/digitconverter/ "Json to go struct")
 -   dec to bin

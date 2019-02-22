@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "65037a41a17f9799f9ec",
-    "url": "/digitconverter/static/css/main.06f33669.chunk.css"
+    "revision": "469f195e8bd43c37ee4a",
+    "url": "/digitconverter/static/css/main.74011432.chunk.css"
   },
   {
-    "revision": "65037a41a17f9799f9ec",
-    "url": "/digitconverter/static/js/main.65037a41.chunk.js"
+    "revision": "469f195e8bd43c37ee4a",
+    "url": "/digitconverter/static/js/main.469f195e.chunk.js"
   },
   {
     "revision": "d2e0b3c28b0b3de3510f",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/digitconverter/static/js/2.063ce5bc.chunk.js"
   },
   {
-    "revision": "cd64632c45b79242175e04860e73c042",
+    "revision": "786e3fe57bb796d3dde2c4f8eb40bad9",
     "url": "/digitconverter/index.html"
   }
 ];
